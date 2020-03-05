@@ -1,4 +1,7 @@
 .data/
 .ipynb_checkpoints/
+__pycache__/
 .vector_cache/
 dataset/
+*.pth
+submission.csv
